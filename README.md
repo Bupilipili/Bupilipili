@@ -5,9 +5,10 @@
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Erick</h1>
   
-<h3 align="center">Software Developer</h3>
+<h3 align="center">A Software Developer</h3>
 
-<p align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Erick"</img> </p>
+<p align="center"><img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+<br></p>
 
 - 🔭  I am currently studying **Software Development** at <img src="https://avatars.githubusercontent.com/u/22550229?s=200&v=4" width="14" height="14"> Microverse. 😄 
 - 🌱  I am learning the best practices for working as a remote software developer at ![](https://img.shields.io/badge/-Microverse-blueviolet)
